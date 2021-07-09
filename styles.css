@@ -16,12 +16,7 @@ body{
 a{
     text-decoration: none;
 }
-a:link{
-    color:white;
-}
-a:visited{
-    color:white;
-}
+
 .bodyimg{
     position: relative;
 }
@@ -64,8 +59,4 @@ a:visited{
     width:310px;
     font-family: fantasy;
     
-}
-.origami:hover{
-
-    transform: scale(1.2);
 }
