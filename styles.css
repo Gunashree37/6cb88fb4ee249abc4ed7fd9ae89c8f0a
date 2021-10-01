@@ -1,7 +1,13 @@
 .menu{
-    display: flex;
-    justify-content: space-between;
-    background-color: black;
+    //add flexbox
+/*     display: flex;
+    justifyContent: space-between; */
+    
+/*  display: flexbox;
+    justify-content: space-between; */
+    
+    
+    background-color: black; 
     padding: 15px;
     font-size: 20px;
     font-family: sans-serif;
@@ -10,7 +16,9 @@
 }
 body{
     margin: 0px;
-    background-color:#f7f2f2;
+    
+    //change color of background
+    background-color:#0;
     
 }
 a{
@@ -40,7 +48,10 @@ a{
     transform: translate(-40%, -40%);
 }
 .grid{
-    display: flex;
+    //add flexbox
+   
+    
+    
     flex-wrap: wrap;
     margin: 40px;
     font-family: sans-serif;
@@ -54,8 +65,12 @@ a{
     
     border-radius: 20px;
     background-color: #ffffff;
-    padding: 30px;
-    margin: 25px;
+    
+    //change margin and padding
+    
+    padding: 200px;
+    margin: 0px;
+   
     width:310px;
     font-family: fantasy;
     
